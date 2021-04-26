@@ -1,0 +1,29 @@
+body{
+    background: #1d1d1d;
+}
+
+label{
+    color:burlywood;
+}
+
+#tittle{
+    text-align: center;
+    color: burlywood;
+}
+#description{
+    text-align: center;
+    color: rgb(163, 157, 149);
+}
+
+#form-div{
+    background: rgb(37, 37, 51);
+    border-radius: 5px;
+}
+
+.button-div {
+    align-content: center;
+}
+
+.form-group{
+    margin-top: 1em;
+}
